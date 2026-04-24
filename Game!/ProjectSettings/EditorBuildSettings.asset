@@ -6,6 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu_Scene.unity
+    guid: a1768d2c50cf4e547b5e043734b102ca
+  - enabled: 1
+    path: Assets/Scenes/Scene_Hi.unity
+    guid: 293395dcaafe52e4e8b21edd008790ff
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2f000a9524017e541831f7e27bdc76ee
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
