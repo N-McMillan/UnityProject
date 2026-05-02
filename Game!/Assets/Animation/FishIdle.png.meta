@@ -195,7 +195,7 @@ TextureImporter:
       name: FishIdle_0
       rect:
         serializedVersion: 2
-        x: 359
+        x: 347
         y: 2249
         width: 136
         height: 447
@@ -217,12 +217,12 @@ TextureImporter:
       name: FishIdle_1
       rect:
         serializedVersion: 2
-        x: 1157
-        y: 2252
-        width: 127
-        height: 443
+        x: 1150
+        y: 2249
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,11 +240,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1893
-        y: 1800
+        y: 1803
         width: 200
-        height: 445
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,8 +263,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1959
         y: 2249
-        width: 134
-        height: 446
+        width: 136
+        height: 447
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,12 +283,12 @@ TextureImporter:
       name: FishIdle_4
       rect:
         serializedVersion: 2
-        x: 2738
+        x: 2745
         y: 2249
-        width: 156
-        height: 451
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: FishIdle_5
       rect:
         serializedVersion: 2
-        x: 353
+        x: 347
         y: 1803
-        width: 142
-        height: 438
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,12 +327,12 @@ TextureImporter:
       name: FishIdle_6
       rect:
         serializedVersion: 2
-        x: 1154
-        y: 1797
-        width: 135
-        height: 451
+        x: 1150
+        y: 1803
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,12 +349,12 @@ TextureImporter:
       name: FishIdle_7
       rect:
         serializedVersion: 2
-        x: 2736
-        y: 1800
-        width: 158
+        x: 2745
+        y: 1803
+        width: 136
         height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -373,10 +373,10 @@ TextureImporter:
         serializedVersion: 2
         x: 347
         y: 1353
-        width: 148
-        height: 445
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: FishIdle_9
       rect:
         serializedVersion: 2
-        x: 1152
+        x: 1150
         y: 1345
-        width: 134
-        height: 451
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,11 +416,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1936
-        y: 1346
+        y: 1353
         width: 159
-        height: 451
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: FishIdle_11
       rect:
         serializedVersion: 2
-        x: 2728
-        y: 1344
-        width: 168
-        height: 451
+        x: 2745
+        y: 1353
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: FishIdle_12
       rect:
         serializedVersion: 2
-        x: 339
+        x: 347
         y: 896
-        width: 149
-        height: 458
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,10 +481,10 @@ TextureImporter:
       name: FishIdle_13
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 899
-        width: 141
-        height: 446
+        x: 1150
+        y: 896
+        width: 136
+        height: 447
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,11 +504,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1930
-        y: 901
+        y: 896
         width: 163
-        height: 446
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,12 +525,12 @@ TextureImporter:
       name: FishIdle_15
       rect:
         serializedVersion: 2
-        x: 2721
-        y: 898
-        width: 178
-        height: 452
+        x: 2745
+        y: 896
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,12 +547,12 @@ TextureImporter:
       name: FishIdle_16
       rect:
         serializedVersion: 2
-        x: 331
+        x: 347
         y: 443
-        width: 165
-        height: 450
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: FishIdle_17
       rect:
         serializedVersion: 2
-        x: 1144
-        y: 447
-        width: 142
-        height: 455
+        x: 1150
+        y: 443
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -592,11 +592,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1924
-        y: 448
+        y: 443
         width: 166
-        height: 455
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,12 +613,12 @@ TextureImporter:
       name: FishIdle_19
       rect:
         serializedVersion: 2
-        x: 2716
-        y: 441
-        width: 188
-        height: 460
+        x: 2745
+        y: 443
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -635,12 +635,12 @@ TextureImporter:
       name: FishIdle_20
       rect:
         serializedVersion: 2
-        x: 327
+        x: 347
         y: 1
-        width: 172
-        height: 442
+        width: 136
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -660,9 +660,9 @@ TextureImporter:
         x: 1147
         y: 1
         width: 139
-        height: 442
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,11 +680,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1912
-        y: 0
+        y: 1
         width: 185
-        height: 450
+        height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
