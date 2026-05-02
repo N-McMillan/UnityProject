@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 9aa4f261657b8314fa7ff1c4cdc2ada6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6248886127715976476
+    second: FishVict_0
+  - first:
+      213: 3216167953903478763
+    second: FishVict_1
+  - first:
+      213: 8855771598834152352
+    second: FishVict_2
+  - first:
+      213: 6258934512312203668
+    second: FishVict_3
+  - first:
+      213: 6180361370761675259
+    second: FishVict_4
+  - first:
+      213: -4654719932050389785
+    second: FishVict_5
+  - first:
+      213: 2230175657070603285
+    second: FishVict_6
+  - first:
+      213: 5000245852651767930
+    second: FishVict_7
+  - first:
+      213: 5134215779569407403
+    second: FishVict_8
+  - first:
+      213: 5308964525375244622
+    second: FishVict_9
+  - first:
+      213: 9004561604152109619
+    second: FishVict_10
+  - first:
+      213: 8109489755550186888
+    second: FishVict_11
+  - first:
+      213: -4191370956262513966
+    second: FishVict_12
+  - first:
+      213: -3515381501609614401
+    second: FishVict_13
+  - first:
+      213: 6172003950235005599
+    second: FishVict_14
+  - first:
+      213: -3671438551997486074
+    second: FishVict_15
+  - first:
+      213: -5000375398477014067
+    second: FishVict_16
+  - first:
+      213: -627486340837391229
+    second: FishVict_17
+  - first:
+      213: -8875042247050628695
+    second: FishVict_18
+  - first:
+      213: 1804235688705220454
+    second: FishVict_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FishVict_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2249
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15806c33d088b650800000000000000
+      internalID: 6248886127715976476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_1
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2249
+        width: 134
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7696ec6bf12ac20800000000000000
+      internalID: 3216167953903478763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_2
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2249
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b088695506ea70800000000000000
+      internalID: 8855771598834152352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_3
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2249
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993dc617c33cd650800000000000000
+      internalID: 6258934512312203668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1799
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1cbc7fbed05c550800000000000000
+      internalID: 6180361370761675259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_5
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1799
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c43132ec176fb0800000000000000
+      internalID: -4654719932050389785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_6
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1799
+        width: 132
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51caa62b1fc23fe10800000000000000
+      internalID: 2230175657070603285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_7
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1799
+        width: 132
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78cdec4c11746540800000000000000
+      internalID: 5000245852651767930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1350
+        width: 129
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5907d9c06604740800000000000000
+      internalID: 5134215779569407403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_9
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1349
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4944249b1b3da940800000000000000
+      internalID: 5308964525375244622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1349
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aab9d1211a6fc70800000000000000
+      internalID: 9004561604152109619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_11
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1349
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dfc3d77f1ba8070800000000000000
+      internalID: 8109489755550186888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 899
+        width: 162
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26516725245d5c0800000000000000
+      internalID: -4191370956262513966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 901
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3649a462bd63fc0800000000000000
+      internalID: -3515381501609614401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_14
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 924
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b01e54ec57a550800000000000000
+      internalID: 6172003950235005599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_15
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 924
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce38dc61e6c0dc0800000000000000
+      internalID: -3671438551997486074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 34
+        width: 147
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdc2671191b9ab0800000000000000
+      internalID: -5000375398477014067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_17
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 34
+        width: 197
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844af06f78ba47f0800000000000000
+      internalID: -627486340837391229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_18
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 34
+        width: 239
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a176f9291485d480800000000000000
+      internalID: -8875042247050628695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishVict_19
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 484
+        width: 274
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5b54bccee90910800000000000000
+      internalID: 1804235688705220454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FishVict_0: 6248886127715976476
+      FishVict_1: 3216167953903478763
+      FishVict_10: 9004561604152109619
+      FishVict_11: 8109489755550186888
+      FishVict_12: -4191370956262513966
+      FishVict_13: -3515381501609614401
+      FishVict_14: 6172003950235005599
+      FishVict_15: -3671438551997486074
+      FishVict_16: -5000375398477014067
+      FishVict_17: -627486340837391229
+      FishVict_18: -8875042247050628695
+      FishVict_19: 1804235688705220454
+      FishVict_2: 8855771598834152352
+      FishVict_3: 6258934512312203668
+      FishVict_4: 6180361370761675259
+      FishVict_5: -4654719932050389785
+      FishVict_6: 2230175657070603285
+      FishVict_7: 5000245852651767930
+      FishVict_8: 5134215779569407403
+      FishVict_9: 5308964525375244622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

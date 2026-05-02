@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: cf136bd77463ea048a159fb6109a4718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5289842989947103769
+    second: FishIdle_0
+  - first:
+      213: 128954622831742661
+    second: FishIdle_1
+  - first:
+      213: 6189623702980368277
+    second: FishIdle_2
+  - first:
+      213: 8135140823021150535
+    second: FishIdle_3
+  - first:
+      213: 7636054289471647274
+    second: FishIdle_4
+  - first:
+      213: 3296870535390349757
+    second: FishIdle_5
+  - first:
+      213: -2963443628811414532
+    second: FishIdle_6
+  - first:
+      213: -8270738530698940349
+    second: FishIdle_7
+  - first:
+      213: -5887356596555223688
+    second: FishIdle_8
+  - first:
+      213: -7303608560058732332
+    second: FishIdle_9
+  - first:
+      213: -3091233345286590443
+    second: FishIdle_10
+  - first:
+      213: 6824439844135028259
+    second: FishIdle_11
+  - first:
+      213: 2205161405127460843
+    second: FishIdle_12
+  - first:
+      213: -164210783406839666
+    second: FishIdle_13
+  - first:
+      213: -9109724619345528362
+    second: FishIdle_14
+  - first:
+      213: 1140786266535492845
+    second: FishIdle_15
+  - first:
+      213: 2345784296093648653
+    second: FishIdle_16
+  - first:
+      213: -6532077745035572360
+    second: FishIdle_17
+  - first:
+      213: -913965426416326179
+    second: FishIdle_18
+  - first:
+      213: -3881819046022400282
+    second: FishIdle_19
+  - first:
+      213: 4550308426476748074
+    second: FishIdle_20
+  - first:
+      213: -2765314283610903935
+    second: FishIdle_21
+  - first:
+      213: 5866932573382562401
+    second: FishIdle_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FishIdle_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2249
+        width: 136
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5dc92d3d3b696b0800000000000000
+      internalID: -5289842989947103769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 2252
+        width: 127
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cec706db832ac100800000000000000
+      internalID: 128954622831742661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1800
+        width: 200
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5979b7db6f5f5e550800000000000000
+      internalID: 6189623702980368277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2249
+        width: 134
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74164f90a73d5e070800000000000000
+      internalID: 8135140823021150535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_4
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 2249
+        width: 156
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2e813be6b8f960800000000000000
+      internalID: 7636054289471647274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1803
+        width: 142
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c46cc846d0cd20800000000000000
+      internalID: 3296870535390349757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1797
+        width: 135
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf31dc878bbbfd6d0800000000000000
+      internalID: -2963443628811414532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_7
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1800
+        width: 158
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340bd87602f683d80800000000000000
+      internalID: -8270738530698940349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1353
+        width: 148
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de5443e58eb4ea0800000000000000
+      internalID: -5887356596555223688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1345
+        width: 134
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d07237f5be54aa90800000000000000
+      internalID: -7303608560058732332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1346
+        width: 159
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b95886abb915d0800000000000000
+      internalID: -3091233345286590443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1344
+        width: 168
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c0bc71e745be50800000000000000
+      internalID: 6824439844135028259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 896
+        width: 149
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be706015d9e4a9e10800000000000000
+      internalID: 2205161405127460843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 899
+        width: 141
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e882fba992b98bdf0800000000000000
+      internalID: -164210783406839666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 901
+        width: 163
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9774e59b1c39180800000000000000
+      internalID: -9109724619345528362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 898
+        width: 178
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decfd75b013e4df00800000000000000
+      internalID: 1140786266535492845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 443
+        width: 165
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d070a588366ed8020800000000000000
+      internalID: 2345784296093648653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 447
+        width: 142
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8be936e56955a0800000000000000
+      internalID: -6532077745035572360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 448
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9677d7941f053f0800000000000000
+      internalID: -913965426416326179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_19
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 441
+        width: 188
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63d77f422012ac0800000000000000
+      internalID: -3881819046022400282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 172
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dfc92c761f52f30800000000000000
+      internalID: 4550308426476748074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1
+        width: 139
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aee017f41af99d0800000000000000
+      internalID: -2765314283610903935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 185
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d2a557188b6150800000000000000
+      internalID: 5866932573382562401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47d58012dc17882499ff4bc98d47eb29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FishIdle_0: -5289842989947103769
+      FishIdle_1: 128954622831742661
+      FishIdle_10: -3091233345286590443
+      FishIdle_11: 6824439844135028259
+      FishIdle_12: 2205161405127460843
+      FishIdle_13: -164210783406839666
+      FishIdle_14: -9109724619345528362
+      FishIdle_15: 1140786266535492845
+      FishIdle_16: 2345784296093648653
+      FishIdle_17: -6532077745035572360
+      FishIdle_18: -913965426416326179
+      FishIdle_19: -3881819046022400282
+      FishIdle_2: 6189623702980368277
+      FishIdle_20: 4550308426476748074
+      FishIdle_21: -2765314283610903935
+      FishIdle_22: 5866932573382562401
+      FishIdle_23: 1435136331
+      FishIdle_3: 8135140823021150535
+      FishIdle_4: 7636054289471647274
+      FishIdle_5: 3296870535390349757
+      FishIdle_6: -2963443628811414532
+      FishIdle_7: -8270738530698940349
+      FishIdle_8: -5887356596555223688
+      FishIdle_9: -7303608560058732332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
