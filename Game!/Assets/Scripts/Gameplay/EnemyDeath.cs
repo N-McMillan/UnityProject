@@ -10,13 +10,16 @@ namespace Platformer.Gameplay
     public class EnemyDeath : Simulation.Event<EnemyDeath>
     {
         public EnemyController enemy;
-
+      
         public override void Execute()
         {
             enemy._collider.enabled = false;
+            enemy._collider.attachedRigidbody.gravityScale = 0;
             enemy.control.enabled = false;
             if (enemy._audio && enemy.ouch)
                 enemy._audio.PlayOneShot(enemy.ouch);
+            enemy.isDead = true;
         }
+        //enemy._collider.attachedRigidbody.gravityScale = 0;
     }
 }
