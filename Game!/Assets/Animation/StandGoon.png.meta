@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 555675f7d8abc0d42bfec3091d9ef155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6096890742346241790
+    second: StandGoon_0
+  - first:
+      213: -6965334768329330471
+    second: StandGoon_1
+  - first:
+      213: -2407635214087969180
+    second: StandGoon_2
+  - first:
+      213: 6790218749630399992
+    second: StandGoon_3
+  - first:
+      213: -3694248148692767860
+    second: StandGoon_4
+  - first:
+      213: -2362408188307144468
+    second: StandGoon_5
+  - first:
+      213: -2692509072659763377
+    second: StandGoon_6
+  - first:
+      213: 2302763131818490244
+    second: StandGoon_7
+  - first:
+      213: -1443573163045304973
+    second: StandGoon_8
+  - first:
+      213: -3905273759564022640
+    second: StandGoon_9
+  - first:
+      213: -2543661235953097776
+    second: StandGoon_10
+  - first:
+      213: 4926006529323381541
+    second: StandGoon_11
+  - first:
+      213: 4702844384861382220
+    second: StandGoon_12
+  - first:
+      213: 5075713407612268280
+    second: StandGoon_13
+  - first:
+      213: -4647352151428636095
+    second: StandGoon_14
+  - first:
+      213: -2937865674508500927
+    second: StandGoon_15
+  - first:
+      213: -4162092787456051181
+    second: StandGoon_16
+  - first:
+      213: 1144753140841472523
+    second: StandGoon_17
+  - first:
+      213: 2694218004224701664
+    second: StandGoon_18
+  - first:
+      213: 9177210645574764073
+    second: StandGoon_19
+  - first:
+      213: -2226626599921552651
+    second: StandGoon_20
+  - first:
+      213: -1553267744692135713
+    second: StandGoon_21
+  - first:
+      213: 2021710080489326523
+    second: StandGoon_22
+  - first:
+      213: -3882742044273478861
+    second: StandGoon_23
+  - first:
+      213: 343295471995683579
+    second: StandGoon_24
+  - first:
+      213: 2989162966581937177
+    second: StandGoon_25
+  - first:
+      213: 7814834155825096092
+    second: StandGoon_26
+  - first:
+      213: 8917618056758484760
+    second: StandGoon_27
+  - first:
+      213: 6006980235849572483
+    second: StandGoon_28
+  - first:
+      213: -8770724966974354174
+    second: StandGoon_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StandGoon_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 310
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a51c2c2e736ba0800000000000000
+      internalID: -6096890742346241790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 716
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07d00aee8265f90800000000000000
+      internalID: -6965334768329330471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 717
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a09b678c569ed0800000000000000
+      internalID: -2407635214087969180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 714
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5cae60af3bb3e50800000000000000
+      internalID: 6790218749630399992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 714
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be509b1e46bbcc0800000000000000
+      internalID: -3694248148692767860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 717
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08a71f44a073fd0800000000000000
+      internalID: -2362408188307144468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 711
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f2991934942aad0800000000000000
+      internalID: -2692509072659763377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 708
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48938e92ede05ff10800000000000000
+      internalID: 2302763131818490244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 708
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c5694bd567fbe0800000000000000
+      internalID: -1443573163045304973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 711
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c388ae43eadc9c0800000000000000
+      internalID: -3905273759564022640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 714
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3a512359913bcd0800000000000000
+      internalID: -2543661235953097776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 713
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523339dd6d0bc5440800000000000000
+      internalID: 4926006529323381541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 714
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466a912d0cd34140800000000000000
+      internalID: 4702844384861382220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 716
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feaa62b37e807640800000000000000
+      internalID: 5075713407612268280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 712
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e2fb47d9418fb0800000000000000
+      internalID: -4647352151428636095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 712
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408b190cba9a37d0800000000000000
+      internalID: -2937865674508500927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 712
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318777959a64d36c0800000000000000
+      internalID: -4162092787456051181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 712
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026e5b9aeaf2ef00800000000000000
+      internalID: 1144753140841472523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 706
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e476411009c36520800000000000000
+      internalID: 2694218004224701664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 705
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ca6e85700c5f70800000000000000
+      internalID: 9177210645574764073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 704
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f27d3097ee6911e0800000000000000
+      internalID: -2226626599921552651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 705
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd89d8c373fa17ae0800000000000000
+      internalID: -1553267744692135713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 705
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb784625b9e8e0c10800000000000000
+      internalID: 2021710080489326523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 704
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333fa90beaabd1ac0800000000000000
+      internalID: -3882742044273478861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 708
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28d45b961a3c400800000000000000
+      internalID: 343295471995683579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 708
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148ede71e3ab7920800000000000000
+      internalID: 2989162966581937177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 704
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956b8c824ed37c60800000000000000
+      internalID: 7814834155825096092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 704
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fd2b3006eb1cb70800000000000000
+      internalID: 8917618056758484760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 704
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3802b9ab2b41d5350800000000000000
+      internalID: 6006980235849572483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandGoon_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 702
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d08d0ac10284680800000000000000
+      internalID: -8770724966974354174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66d0543a8a0bd3143bef8f71f737c49b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StandGoon_0: -6096890742346241790
+      StandGoon_1: -6965334768329330471
+      StandGoon_10: -2543661235953097776
+      StandGoon_11: 4926006529323381541
+      StandGoon_12: 4702844384861382220
+      StandGoon_13: 5075713407612268280
+      StandGoon_14: -4647352151428636095
+      StandGoon_15: -2937865674508500927
+      StandGoon_16: -4162092787456051181
+      StandGoon_17: 1144753140841472523
+      StandGoon_18: 2694218004224701664
+      StandGoon_19: 9177210645574764073
+      StandGoon_2: -2407635214087969180
+      StandGoon_20: -2226626599921552651
+      StandGoon_21: -1553267744692135713
+      StandGoon_22: 2021710080489326523
+      StandGoon_23: -3882742044273478861
+      StandGoon_24: 343295471995683579
+      StandGoon_25: 2989162966581937177
+      StandGoon_26: 7814834155825096092
+      StandGoon_27: 8917618056758484760
+      StandGoon_28: 6006980235849572483
+      StandGoon_29: -8770724966974354174
+      StandGoon_3: 6790218749630399992
+      StandGoon_4: -3694248148692767860
+      StandGoon_5: -2362408188307144468
+      StandGoon_6: -2692509072659763377
+      StandGoon_7: 2302763131818490244
+      StandGoon_8: -1443573163045304973
+      StandGoon_9: -3905273759564022640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
